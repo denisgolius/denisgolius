@@ -7,8 +7,7 @@
 - 💬 Ask me about Linux/DevOps 
 - 📫 How to reach me: [Telegram](https://t.me/terrifilch) or [Twitter](https://twitter.com/dengolius) or [Email](denaspireone@yahoo.com)
 - ⚡ Fun fact: [Scylla will kill Cassandra](https://university.scylladb.com) .
-- [![HitCount](http://hits.dwyl.com/denisgolius/denisgolius/zabbix-mongodb.svg)](http://hits.dwyl.com/denisgolius/denisgolius/zabbix-mongodb)  🤨
-- [![HitCount](http://hits.dwyl.com/denisgolius/flussonic_in_zabbix.svg)](http://hits.dwyl.com/denisgolius/flussonic_in_zabbix) flussonic monitoring for Zabbix
+- [![HitCount](http://hits.dwyl.com/denisgolius/denisgolius.svg)](http://hits.dwyl.com/denisgolius/denisgolius) 💪
 <!--
 **denisgolius/denisgolius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
