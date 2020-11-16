@@ -7,7 +7,9 @@
 - 💬 Ask me about Linux/DevOps 
 - 📫 How to reach me: [Telegram](https://t.me/terrifilch) or [Twitter](https://twitter.com/dengolius) or [Email](denaspireone@yahoo.com)
 - ⚡ Fun fact: [Scylla will kill Cassandra](https://university.scylladb.com) .
-- [![HitCount](http://hits.dwyl.com/denisgolius/denisgolius.svg)](http://hits.dwyl.com/denisgolius/denisgolius) 💪
+Fancy stats:
+
+<img src="https://github-readme-stats.vercel.app/api?username=denisgolius&show_icons=true" alt="logo" height="160" />
 <!--
 **denisgolius/denisgolius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
