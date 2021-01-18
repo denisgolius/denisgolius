@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at [foxprime.tv](https://foxprime.tv)
+<!-- - 🔭 I’m currently working at [foxprime.tv](https://foxprime.tv) -->
 - 🌱 I’m currently learning [Eve python framework](https://docs.python-eve.org)
 - 👯 I’m a host of [Sysadmin tools Telegram channel](https://t.me/sysadmin_tools)
 - 🤔 I’m a host of [Best of ru IT](https://t.me/best_of_ru_it)(funny quotes from RU IT chats)
