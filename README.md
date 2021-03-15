@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-<!-- - 🔭 I’m currently working at [foxprime.tv](https://foxprime.tv) -->
-- 🌱 I’m currently learning [Eve python framework](https://docs.python-eve.org)
+- 🔭 I’m currently working at [VictoriaMetrics](https://victoriametrics.com)
+<!--- 🌱 I’m currently learning [Eve python framework](https://docs.python-eve.org)-->
 - 👯 I’m a host of [Sysadmin tools Telegram channel](https://t.me/sysadmin_tools)
 - 🤔 I’m a host of [Best of ru IT](https://t.me/best_of_ru_it)(funny quotes from RU IT chats)
 - 💬 Ask me about Linux/DevOps 
-- 📫 How to reach me: [Telegram](https://t.me/terrifilch) or [Twitter](https://twitter.com/dengolius) or [Email](denaspireone@yahoo.com)
+- 📫 How to reach me: [Telegram](https://t.me/terrifilch) or [Twitter](https://twitter.com/dengolius) or [Email](denaspireone@thisisfine.xyz)
 - ⚡ Fun fact: [Scylla will kill Cassandra](https://university.scylladb.com) .
 Fancy stats:
 
