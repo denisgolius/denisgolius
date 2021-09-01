@@ -13,8 +13,7 @@ Fancy stats:
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=denisgolius&row=1&column=9&oldie&no-frame=true)
 
-.. image:: https://wakatime.com/share/@ea3ca7c5-d8dc-4c65-a065-29dc2baf8f00/3e3e8e0c-0b17-4baf-8b6c-76891941a986.png
-    :target: https://wakatime.com/
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ea3ca7c5-d8dc-4c65-a065-29dc2baf8f00/3e3e8e0c-0b17-4baf-8b6c-76891941a986.png" /></a>
 
 <!--
 **denisgolius/denisgolius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
