@@ -5,7 +5,7 @@
 - 👯 I’m a host of [Sysadmin tools Telegram channel](https://t.me/sysadmin_tools)
 - 🤔 I’m a host of [Best of ru IT](https://t.me/best_of_ru_it)(funny quotes from RU IT chats)
 - 💬 Ask me about Linux/DevOps 
-- 📫 How to reach me: [Telegram](https://t.me/terrifilch) or [Twitter](https://twitter.com/dengolius) or [Email](denaspireone@thisisfine.xyz)
+- 📫 How to reach me: [Telegram](https://t.me/terrifilch) or [Twitter](https://twitter.com/dengolius)
 - ⚡ Fun fact: [Scylla will kill Cassandra](https://university.scylladb.com) .
 Fancy stats:
 
