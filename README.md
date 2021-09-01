@@ -10,6 +10,7 @@
 Fancy stats:
 
 <img src="https://github-readme-stats.vercel.app/api?username=denisgolius&show_icons=true" alt="logo" height="160" />
+![](https://github-profile-trophy.vercel.app/?username=denisgolius&row=1&column=9&oldie&no-frame=true)
 <!--
 **denisgolius/denisgolius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
