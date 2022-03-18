@@ -1,7 +1,7 @@
 ### Hi there 👋
 <!--- 🌱 I’m currently learning [Eve python framework](https://docs.python-eve.org)-->
 <!--- - 👯 I’m a host of [Sysadmin tools Telegram channel](https://t.me/sysadmin_tools)-->
-- 🇺🇦 🇺🇦 🇺🇦 Donate for my city on [fond.sumy.ua](https://www.fond.sumy.ua) or donate for Ukraine on [savelife.in.ua/en/donate](savelife.in.ua/en/donate/)
+- 🇺🇦 🇺🇦 🇺🇦 Donate for my city on [fond.sumy.ua](https://www.fond.sumy.ua) or donate for Ukraine on [savelife.in.ua/en/donate](https://savelife.in.ua/en/donate/)
 - 🔭 I’m currently working at [VictoriaMetrics](https://victoriametrics.com)
 - 🎃 I’m a host of [ScyllaDB RU/EN Telegram community](https://t.me/ru_scylladb)
 - 😈 I’m a host of [Vector.dev RU/EN Telegram community](https://t.me/vectordev_ru)
