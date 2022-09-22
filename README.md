@@ -7,7 +7,7 @@
 - 😈 I’m a host of [Vector.dev RU/EN Telegram community](https://t.me/vectordev_ru)
 - 🤪 I’m a host of [Grafana Loki RU/EN Telegram community](https://t.me/ru_loki)
 - 💬 Ask me about Linux/DevOps 
-- 📫 How to reach me: [Telegram](https://t.me/terrifilch) or [Twitter](https://twitter.com/dengolius)
+- 📫 How to reach me: [Twitter](https://twitter.com/dengolius)
 
 - ⚡ ⚡ ⚡ Fancy stats:
 
